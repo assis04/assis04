@@ -3,7 +3,7 @@
 Olá, eu um estudante de Ciência da Computação apaixoanado por tecnologia e desenvolvimento de softwares, tenho alguns intereses em areas como Front-End, Back-End, FullStack e iOS.
 Venho estudando tecnologias como HTML, CSS, JavaScript, C#, .NET e desenvolvimento iOS com Swift.
 
-<a href="https://github.com/assis04" title="Perfil do Iuri">
+<a href="https://github.com/assis04" title="Perfil do Thiago">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=assis04&theme=dracula&show_icons=true" />
 </a>
 
