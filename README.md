@@ -7,8 +7,8 @@ Venho estudando tecnologias como HTML, CSS, JavaScript, C#, .NET e desenvolvimen
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=assis04&theme=dracula&show_icons=true" />
 </a>
 
- [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=assis04&repo=Site_One_Piece&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/assis04/Site_One_Piece
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=assis04&repo=Site_One_Piece&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/assis04/Aplicativo-de-Contatos)
+ [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=assis04&repo=Site_One_Piece&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/assis04/Site_One_Piece)
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=assis04&repo=Aplicativo-de-Contatos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/assis04/Aplicativo-de-Contatos)
 
 ## Onde me encontrar
 
